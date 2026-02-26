@@ -21,7 +21,13 @@
 
 <br />
 
-![HB's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeHB-1007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/leeHB-1007"
+  width="600"
+  height="300"
+/>
+</a>
 
 <br/><br />
 
