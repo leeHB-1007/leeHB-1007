@@ -59,7 +59,7 @@
 
 > 어떤 기술들을 사용할 수 있나요?
 
-<h4>✔️ Frontend</h2>
+<h4>✔️ Frontend</h4>
 <div>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-20232a?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -72,9 +72,11 @@
     <img src="https://img.shields.io/badge/Recoil-20232a?style=flat&logo=recoil&logoColor=3578E5" />
     <img src="https://img.shields.io/badge/Zustand-20232a?style=flat&logo=zustand&logoColor=black" />
     <img src="https://img.shields.io/badge/Redux-20232a?style=flat&logo=redux&logoColor=764ABC" />
+    <img src="https://img.shields.io/badge/Jotai-20232a?style=flat&logo=jotai&logoColor=white" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/styledcomponents-20232a?style=flat&logo=styledcomponents&logoColor=DB7093" />
+    <img src="https://img.shields.io/badge/Emotion-20232a?style=flat&logo=emotion&logoColor=C865B9" />
     <img src="https://img.shields.io/badge/Tailwindcss-20232a?style=flat&logo=tailwindcss&logoColor=06B6D4" />
     <img src="https://img.shields.io/badge/Sass-20232a?style=flat&logo=sass&logoColor=CC6699" />
     <img src="https://img.shields.io/badge/CSSModules-20232a?style=flat&logo=cssmodules&logoColor=CC6699" />
@@ -83,10 +85,11 @@
 
 <br/>
 
-<h4>✔️ Backend</h2>
+<h4>✔️ Backend</h4>
 <div>
   <img src="https://img.shields.io/badge/Node.js-20232a?style=flat&logo=Node.js&logoColor=339933">
   <img src="https://img.shields.io/badge/Express-20232a?style=flat&logo=express&logoColor=000000">
+  <img src="https://img.shields.io/badge/NestJS-20232a?style=flat&logo=nestjs&logoColor=E0234E">
 </div>
 
 <br/>
