@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/Recoil-20232a?style=flat&logo=recoil&logoColor=3578E5" />
     <img src="https://img.shields.io/badge/Zustand-20232a?style=flat&logo=zustand&logoColor=black" />
     <img src="https://img.shields.io/badge/Redux-20232a?style=flat&logo=redux&logoColor=764ABC" />
-    <img src="https://img.shields.io/badge/Jotai-20232a?style=flat&logo=jotai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jotai-20232a?style=flat&logo=Jotai&logoColor=white" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/styledcomponents-20232a?style=flat&logo=styledcomponents&logoColor=DB7093" />
